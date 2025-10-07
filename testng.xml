@@ -5,6 +5,7 @@
     <classes>
       <class name="com.cognizant.practice.Testclass2"/>
       <class name="com.cognizant.practice.Test1"/>
+      <class name="com.cognizant.practice.Testclass3"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
