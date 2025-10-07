@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-10-07T08:18:24 IST" name="Surefire suite" finished-at="2025-10-07T08:18:24 IST" duration-ms="93">
+    <groups>
+    </groups>
+    <test started-at="2025-10-07T08:18:24 IST" name="Surefire test" finished-at="2025-10-07T08:18:24 IST" duration-ms="93">
+      <class name="com.cognizant.practice.Test1">
+        <test-method signature="testpractice1()[pri:0, instance:com.cognizant.practice.Test1@5e4c8041]" started-at="2025-10-07T08:18:24 IST" name="testpractice1" finished-at="2025-10-07T08:18:24 IST" duration-ms="9" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testpractice1 -->
+        <test-method signature="testpractice2()[pri:0, instance:com.cognizant.practice.Test1@5e4c8041]" started-at="2025-10-07T08:18:24 IST" name="testpractice2" finished-at="2025-10-07T08:18:24 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testpractice2 -->
+      </class> <!-- com.cognizant.practice.Test1 -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
